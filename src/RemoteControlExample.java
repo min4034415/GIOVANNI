@@ -15,6 +15,7 @@ rc.turnOff();
         rc.turnOn();
         rc.setVolume(255);
         rc.turnOff();
+    rc.setMute(false);
     }
     
 }
